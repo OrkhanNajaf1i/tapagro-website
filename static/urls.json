@@ -1,0 +1,11 @@
+{
+  "exchange_code_for_token": "/authentication-service/social-login/exchange-code-for-token",
+  "get_generated_uri": "/authentication-service/social-login/google/get-generated-uri",
+  "refresh_token": "/authentication-service/refresh",
+  "upload_file": "/file-service/files/upload",
+  "download_file": "/file-service/files/download",
+  "events_slug": "/guest-service/events",
+  "photos": "/guest-service/events/${id}/content",
+  "products": "/public/ecommerce/products",
+  "farmers": "/public/ecommerce/farmers"
+}
